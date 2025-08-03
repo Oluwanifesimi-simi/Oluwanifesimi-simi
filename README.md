@@ -61,7 +61,7 @@ My mission is to empower organizations and decision-makers with data-driven fina
 - Product Review Analysis: [View Project](https://github.com/Oluwanifesimi-simi/Amazon-Product-Review-Analysis) As part of this analysis, a clean and interactive Excel dashboard was developed to support data-driven decision-making across key business functions. The dashboard provides actionable insights that assist in evaluating **pricing strategies**, **inventory prioritization**, and **customer satisfaction trends**. Leveraging product and review data, the analysis also offers recommendations to drive product improvement, shape targeted marketing strategies, and enhance customer engagement efforts.
 
 **SQL**
-- Kultra Mega Stores Inventory: [View Project] Kultra Mega Stores (KMS), is a leading office supplies and furniture company in Nigeria, serves individuals, small businesses, and corporate clients nationwide. To support data-driven decisions, KMS commissioned a business insight report for its Abuja division to uncover key trends and improve regional performance.
+- Kultra Mega Stores Inventory: [View Project](https://github.com/Oluwanifesimi-simi/DSA-capstone-project-SQL) Kultra Mega Stores (KMS), is a leading office supplies and furniture company in Nigeria, serves individuals, small businesses, and corporate clients nationwide. To support data-driven decisions, KMS commissioned a business insight report for its Abuja division to uncover key trends and improve regional performance.
 
 
 
@@ -72,7 +72,7 @@ My mission is to empower organizations and decision-makers with data-driven fina
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="Oluwanifesimi-simi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] www.linkedin.com/in/oyinlola-oladeji-430108294
+[<img align="left" alt="Oluwanifesimi-simi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 [<img align="left" alt="Oluwanifesimi-simi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
