@@ -57,17 +57,9 @@ My mission is to empower organizations and decision-makers with data-driven fina
 - AI Tools: Prompt engineering, assistant logic design, and deploying AI-driven solutions for enhanced productivity and innovation
 
 ## ANALYSIS PROJECTS
-**Excel**  
-
-
-
-
-
-
-
-
-
-
+**Excel**
+- 
+[View Project](https://github.com/Oluwanifesimi-simi/Amazon-Product-Review-Analysis)
 
 
 
