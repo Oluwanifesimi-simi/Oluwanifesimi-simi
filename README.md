@@ -10,7 +10,7 @@ With background in Data, Research and Development especially in Monitoring and E
 ## MISSION 
 My mission is to empower organizations and decision-makers with data-driven financial insights that support sustainable business growth, fiscal responsibility, and community advancement. I am passionate about leveraging financial analysis, business intelligence, and academic research to uncover actionable insights, bridge knowledge gaps, and contribute meaningfully to positive economic and social outcomes.
 
-## ⚙️ SKILLS & COMPETENCIES 
+## SKILLS & COMPETENCIES 
 ### Financial & Data Analysis
 
 - Strong foundation in analyzing financial statements, budgeting, forecasting, and identifying trends for strategic planning.
