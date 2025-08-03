@@ -1,4 +1,4 @@
-<h1>Hi,👋 I'm Oluwanifesimi! You are welcome to my Profile 
+<h1>Hi,👋 I'm Oluwanifesimi! You are welcome to my Profile
 <br/><a href= "https://github.com/Oluwanifesimi-simi">Fnanicial Analyst</a>, <a href="https://www.linkedin.com/in/oyinlola-oladeji-430108294/">Fiancial and Data Analyst</a></h1> 
 
 ## ABOUT ME
@@ -10,7 +10,7 @@ With background in Data, Research and Development especially in Monitoring and E
 ## MISSION 
 My mission is to empower organizations and decision-makers with data-driven financial insights that support sustainable business growth, fiscal responsibility, and community advancement. I am passionate about leveraging financial analysis, business intelligence, and academic research to uncover actionable insights, bridge knowledge gaps, and contribute meaningfully to positive economic and social outcomes.
 
-## ⚙️ Skills & Competencies
+## ⚙️ SKILLS & COMPETENCIES 
 ### Financial & Data Analysis
 
 - Strong foundation in analyzing financial statements, budgeting, forecasting, and identifying trends for strategic planning.
@@ -41,7 +41,27 @@ My mission is to empower organizations and decision-makers with data-driven fina
 
 - Adept at solving analytical problems with precision and a business-focused mindset.
 
-## TOOLS
+ ## Tools & Technologies
+- Design: Canva, PowerPoint, CapCut, InShot
+
+- Excel: Advanced formulas, pivot tables, dynamic charts, data cleaning, automation using Macros & VBA
+
+- Power BI: Real-time dashboards, DAX calculations, financial modeling, and business insights reporting
+
+- SQL: Query writing for data extraction, transformation, and relational database management
+
+- Python: Data manipulation (Pandas), visualization (Plotly), statistical analysis, and workflow automation
+
+- Tableau: Data blending, interactive dashboards, and insightful report sharing
+
+- AI Tools: Prompt engineering, assistant logic design, and deploying AI-driven solutions for enhanced productivity and innovation
+
+## ANALYSIS PROJECTS
+**Excel**  
+
+
+
+
 
 
 
