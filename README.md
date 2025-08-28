@@ -1,5 +1,5 @@
 <h1>Hi,👋 I'm Oluwanifesimi! You are welcome to my Profile
-<br/><a href= "https://github.com/Oluwanifesimi-simi">Fnanicial Analyst</a>, <a href="https://www.linkedin.com/in/oyinlola-oladeji-430108294/">Fiancial and Data Analyst</a></h1> 
+<br/><a href= "https://github.com/Oluwanifesimi-simi"> Accountant</a>, <a href="https://www.linkedin.com/in/oyinlola-oladeji-430108294/">Fiancial and Data Analyst</a></h1> 
 
 ## ABOUT ME
 I am a Finance, Quant & Data Enthusiast.
