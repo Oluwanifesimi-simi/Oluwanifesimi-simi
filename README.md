@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://github.com/Oluwanifesimi-simi/Oluwanifesimi-simi/blob/main/My%20GitHub%20profile%20picture%20round.png" alt="Profile Picture" width="150">
+</p>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2F80ED&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B+You're+Welcome+to+My+Portfolio!" alt="Hi 👋 You're Welcome to My Portfolio!" />
