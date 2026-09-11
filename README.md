@@ -156,6 +156,9 @@ My mission is to empower organizations and individual decision-makers with data-
 
 - **Product Review Analysis**: [View Project](https://github.com/Oluwanifesimi-simi/Amazon-Product-Review-Analysis) As part of this analysis, a clean and interactive Excel dashboard was developed to support data-driven decision-making across key business functions. The dashboard provides actionable insights that assist in evaluating **pricing strategies**, **inventory prioritization**, and **customer satisfaction trends**. Leveraging product and review data, the analysis also offers recommendations to drive product improvement, shape targeted marketing strategies, and enhance customer engagement efforts.
 <a href="https://github.com/Oluwanifesimi-simi/Amazon-Product-Review-Analysis"> <img src="https://img.shields.io/badge/View%20project-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> </a>
+#
+- **CineLytics Film Portfolio Analytics:** [View Project](https://github.com/Oluwanifesimi-simi/CineLytics-Film-Portfolio-Analytics-Excel-Business-Intelligence-Project) A full-scale data analytics project simulating a real-world entertainment industry engagement framework — built entirely in Microsoft Excel across 15,000 film records, 26 variables, and 91,219 live formula calculations, answering 20 business questions, with a focus on *a clear picture of what is actually working, what is destroying value, and where we should concentrate resources next with the huge investment of the stakeholders.*
+<a href="https://github.com/Oluwanifesimi-simi/CineLytics-Film-Portfolio-Analytics-Excel-Business-Intelligence-Project"> <img src="https://img.shields.io/badge/View%20project-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> </a>
 
 # 
 <!-- SQL Projects -->
