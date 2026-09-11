@@ -115,9 +115,9 @@ My mission is to empower organizations and individual decision-makers with data-
     <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Microsoft Power Automate"/>
   </a>
 
-  <!-- SQL -->
-  <a href="https://www.w3schools.com/sql/" target="_blank">
-    <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <!-- SSMS SQL -->
+  <a href="https://www.w3schools.com/SSMSsql/" target="_blank">
+    <img src="https://img.shields.io/badge/SSMSSQL-336791?style=for-the-badge&logo=SSMSSQL&logoColor=white" alt="SSMSSQL"/>
   </a>
 
   <!-- Data Studio -->
@@ -125,7 +125,7 @@ My mission is to empower organizations and individual decision-makers with data-
     <img src="https://img.shields.io/badge/Data%20Studio-788bee?style=for-the-badge&logoColor=white" alt="Data Studio"/>
   </a>
 
-  <!-- MySQL -->
+  <!-- MySQLite -->
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   </a>
@@ -140,9 +140,10 @@ My mission is to empower organizations and individual decision-makers with data-
 - **Design**: Canva, PowerPoint, CapCut, OBS Studio, etc.
 - **Excel**: Advanced formulas, pivot tables, charts, automation (macros), and data cleaning.
 - **Power BI**: Interactive dashboards, real-time reporting, DAX calculations, and data modeling.
-- **SQL**: (SSMS, MySQL) Writing queries for data extraction, transformation, and management in relational databases.
+- **SQL**: (SSMS, PostgreSQL, SQLite DB Browser) Writing queries for data extraction, transformation, and management in relational databases.
 - **Python**: Data manipulation (Pandas, NumPy), visualization (Matplotlib, Seaborn), statistical analysis, and automation.
 - **Tableau**: Creating dashboards, data blending, and sharing interactive reports.
+- **Data Studio**: Creating dashboards, data blending & connection, collaboration and real-time interactive reports.
 - **Artificial Intelligence Tools**: Prompt Engineering, Create Smart Prompts, Build Assistant Logic, Leveraging AI tools and solutions to drive innovation and efficiency.
 
 ---
@@ -178,7 +179,7 @@ My mission is to empower organizations and individual decision-makers with data-
 ---
 <!-- LET'S CONNECT -->
 
-<h2> 🤳 Connect with me:</h2> <img src="https://img.shields.io/badge/Let's%20Connect-4527A0?style=for-the-badge" />
+<h2> 📳 Connect with me:</h2> <img src="https://img.shields.io/badge/Let's%20Connect-4527A0?style=for-the-badge" />
 
 #
 
