@@ -173,7 +173,10 @@ My mission is to empower organizations and individual decision-makers with data-
 #
 
 - **Kultra Mega Stores Inventory**: [View Project](https://github.com/Oluwanifesimi-simi/Kultra-Mega-Stores-Inventory-) Kultra Mega Stores (KMS), is a leading office supplies and furniture company in Nigeria, serves individuals, small businesses, and corporate clients nationwide. To support data-driven decisions, KMS commissioned a business insight report for its Abuja division to uncover key trends and improve regional performance engaging my service, presenting key insights to the business.
-<a href="https://github.com/Oluwanifesimi-simi/Kultra-Mega-Stores-Inventory-"> <img src="https://img.shields.io/badge/View%20project-4479A1?style=for-the-badge&logo=SSMS&logoColor=white" /> </a>
+<a href="https://github.com/Oluwanifesimi-simi/Kultra-Mega-Stores-Inventory-"><img src="https://img.shields.io/badge/View%20project-4479A1?style=for-the-badge&logo=SSMS&logoColor=white" /> </a>
+
+- **JustDrinks-Ltd—Analytics**: [View Project](https://github.com/Oluwanifesimi-simi/JustDrinks-Ltd--Analytics) JustDrinks Ltd is a fictitious major retailer of alcoholic drinks in a fictional state of Lincoln. It has about 80 retail locations and total sales in excess of $450 million. An end-to-end data analytics engagement covering vendor intelligence, inventory aging, and executive sales dashboards for a major alcoholic beverages retailer, answering four distinct business questions. For better interaction and understanding, <a href= "https://github.com/Oluwanifesimi-simi/JustDrinks-Ltd--Analytics"><img src="https://img.shields.io/badge/View%20project-4479A1?style=for-the-badge&logo=SSMS&logoColor=white" /> </a>
+
 
 #
 ---
